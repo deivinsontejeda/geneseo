@@ -1,0 +1,50 @@
+Documentation:
+  Enabled: false
+
+TrailingWhitespace:
+  Enabled: false
+
+GlobalVars:
+  Enabled: false
+
+RaiseArgs:
+  Enabled: false
+
+SingleSpaceBeforeFirstArg:
+  Enabled: false
+
+AmbiguousOperator:
+  Enabled: false
+
+ClassAndModuleChildren:
+  Enabled: false
+
+AllCops:
+  Exclude:
+    - 'spec/spec_helper.rb'
+    - 'db/migrate/*'
+    - 'db/schema.rb'
+    - 'app/entities/concerns/uuid_model.rb'
+    - 'spec/app/api/v1/execution_spec.rb'
+    - 'spec/support/shared_for_execution_raw_data.rb'
+    - 'vendor/**/*'
+    - 'lib/data_collector/logging.rb'
+
+LineLength:
+  Max: 130
+
+MethodLength:
+  CountComments: false
+  Max: 45
+
+CyclomaticComplexity:
+  Max: 12
+
+ClassLength:
+  Max: 140
+
+PerceivedComplexity:
+  Max: 12
+
+Style/Next:
+  Enabled: false

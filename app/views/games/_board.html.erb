@@ -1,0 +1,41 @@
+
+<table class="board round">
+  <tr> <center>
+  <% if !@game.current_player?(@current_user) || @game.game_over %>
+    <th> <center> 1 </th>
+    <th> <center> 2 </th>
+    <th> <center> 3 </th>
+    <th> <center> 4 </th>
+    <th> <center> 5 </th>
+    <th> <center> 6 </th>
+    <th> <center> 7 </th>
+  <% else %>
+    <% (0..6).each do |column| %>
+    <% if !@game.position(6, column) %>
+      <% @move_column = column %>
+      <th> <center> <%= render 'games/move' %> </th>
+    <% else %>
+      <th> <center> <%= column + 1 %> </th>
+    <% end %>
+    <% end %>
+  <% end %>
+  </tr>
+  <% (6.downto(0)).each do |row|%>
+    <tr>
+    <% (0..6).each do |col| %>
+      <td> <center> <% if @game.position(row,col)%>
+        <% if @game.position(row,col) == @game.player_1_id %>
+          <i class="fa fa-check-square" aria-hidden="true"></i>
+        <% else %>
+          <i class="fa fa-minus-square" aria-hidden="true"></i>
+        <% end %>
+    <% else %>
+    <i class="fa fa-square" aria-hidden="true"></i>
+    <% end %>
+    </td>
+    <% end %>
+    </tr>
+
+    </tr>
+  <% end %>
+</table>

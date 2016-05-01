@@ -1,0 +1,27 @@
+common: &common
+  pool_size: 25
+  wait_timeout: 10
+  connect_timeout: 50
+  read_timeout: 1000
+  write_timeout: 1000
+  reconnect: true
+
+development: &development
+  <<: *common
+  adapter: postgresql
+  host: 192.168.99.100
+  database: geneseo_development
+  username: postgres
+  password:
+
+production:
+  <<: *common
+  url: <%= ENV['DATABASE_URL'] %>
+
+staging:
+  <<: *common
+  url: <%= ENV['DATABASE_URL'] %>
+
+test:
+  <<: *development
+  database: neofrogmi_test

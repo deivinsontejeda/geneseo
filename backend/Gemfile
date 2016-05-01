@@ -1,0 +1,17 @@
+source 'https://rubygems.org'
+
+gem 'rake', '~> 10.0'
+gem 'pg'
+gem 'puma'
+gem 'grape'
+gem 'grape-swagger'
+gem 'activerecord'
+gem 'activemodel'
+gem 'activesupport'
+gem 'rack-cors'
+gem 'i18n'
+gem 'state_machine'
+
+group :development do
+  gem 'foreman'
+end

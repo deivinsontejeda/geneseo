@@ -1,0 +1,19 @@
+
+<div class="alert alert-warning" role="alert">Turn <span class="badge"><%= @game.current_turn %></span> </div>
+    <% if !@game.game_over %>
+      <% if @game.current_player?(@current_user) %>
+        <div class="alert alert-warning" role="alert">It's your turn!</div>
+      <% else %>
+        <div class="alert alert-warning" role="alert">Waiting for opponent</div>
+      <% end %>
+    <% else %>
+      <% if @game.current_player?(@current_user) %>
+        <div class="alert alert-success" role="alert">You Win. You are the best so far!</div>
+      <% else %>
+        <% if @game.current_player == -1 %>
+          <div class="alert alert-warning" role="alert">The game was a draw. Good player</div>
+        <% else %>
+          <div class="alert alert-danger" role="alert">Sorry, you have lost the game.</div>
+        <% end %>
+      <% end %>
+    <% end %>

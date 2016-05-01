@@ -1,0 +1,6 @@
+<h3>Connect Four!</h3>
+  <% if @game.game_over %>
+    <th> <%= button_to "Game Over! Click to play again.", { controller: "games", action: :destroy, user_id: @current_user }, remote: true, method: :delete %> </th>
+  <% else %>
+    <div class="alert alert-success" role="alert">Try to get <strong>4 tokens</strong> in a row to win!</div>
+  <% end %>

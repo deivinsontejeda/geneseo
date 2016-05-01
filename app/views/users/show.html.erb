@@ -1,0 +1,7 @@
+<% unless @game.nil? %>
+  <div id="gamecontainer" data-game-id="<%= @game.id %>" data-user-id="<%= @current_user %>">
+    <%= render @game %>
+  </div>
+<% else %>
+  <%= render 'users/play' %>
+<% end %>

@@ -1,0 +1,1021 @@
+# Logfile created on 2015-03-03 10:52:44 -0300 by logger.rb/44203
+[03/03/15 10:52:44 -0300 fringe.local (43384)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/03/15 10:52:44 -0300 fringe.local (43384)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[05/04/15 11:57:41 -0300 fringe.local (10401)] INFO : Starting the New Relic agent in "development" environment.
+[05/04/15 11:57:41 -0300 fringe.local (10401)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/04/15 11:57:41 -0300 fringe.local (10401)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[05/04/15 11:57:41 -0300 fringe.local (10401)] INFO : Environment: development
+[05/04/15 11:57:41 -0300 fringe.local (10401)] INFO : No known dispatcher detected.
+[05/04/15 11:57:41 -0300 fringe.local (10401)] INFO : Application: DataCollector (Development)
+[05/04/15 11:57:41 -0300 fringe.local (10401)] INFO : Installing Net instrumentation
+[05/04/15 11:57:41 -0300 fringe.local (10401)] INFO : Installing Sinatra instrumentation
+[05/04/15 11:57:41 -0300 fringe.local (10401)] INFO : Installing deferred Rack instrumentation
+[05/04/15 11:57:41 -0300 fringe.local (10401)] INFO : Installing Rack::Builder middleware instrumentation
+[05/04/15 11:57:41 -0300 fringe.local (10401)] INFO : Installing Sidekiq instrumentation
+[05/04/15 11:57:41 -0300 fringe.local (10401)] INFO : Installing Typhoeus instrumentation
+[05/04/15 11:57:41 -0300 fringe.local (10401)] INFO : Finished instrumentation
+[05/04/15 11:57:42 -0300 fringe.local (10401)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/8668258
+[05/04/15 11:58:33 -0300 fringe.local (10478)] INFO : Starting the New Relic agent in "development" environment.
+[05/04/15 11:58:33 -0300 fringe.local (10478)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/04/15 11:58:33 -0300 fringe.local (10478)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[05/04/15 11:58:34 -0300 fringe.local (10478)] INFO : Environment: development
+[05/04/15 11:58:34 -0300 fringe.local (10478)] INFO : No known dispatcher detected.
+[05/04/15 11:58:34 -0300 fringe.local (10478)] INFO : Application: DataCollector (Development)
+[05/04/15 11:58:34 -0300 fringe.local (10478)] INFO : Installing Net instrumentation
+[05/04/15 11:58:34 -0300 fringe.local (10478)] INFO : Installing Sinatra instrumentation
+[05/04/15 11:58:34 -0300 fringe.local (10478)] INFO : Installing deferred Rack instrumentation
+[05/04/15 11:58:34 -0300 fringe.local (10478)] INFO : Installing Rack::Builder middleware instrumentation
+[05/04/15 11:58:34 -0300 fringe.local (10478)] INFO : Installing Sidekiq instrumentation
+[05/04/15 11:58:34 -0300 fringe.local (10478)] INFO : Installing Typhoeus instrumentation
+[05/04/15 11:58:34 -0300 fringe.local (10478)] INFO : Finished instrumentation
+[05/04/15 11:58:35 -0300 fringe.local (10478)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/8668258
+[05/04/15 11:59:08 -0300 fringe.local (10588)] INFO : Starting the New Relic agent in "development" environment.
+[05/04/15 11:59:08 -0300 fringe.local (10588)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/04/15 11:59:08 -0300 fringe.local (10588)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[05/04/15 11:59:08 -0300 fringe.local (10588)] INFO : Environment: development
+[05/04/15 11:59:08 -0300 fringe.local (10588)] INFO : No known dispatcher detected.
+[05/04/15 11:59:08 -0300 fringe.local (10588)] INFO : Application: DataCollector (Development)
+[05/04/15 11:59:08 -0300 fringe.local (10588)] INFO : Installing Net instrumentation
+[05/04/15 11:59:08 -0300 fringe.local (10588)] INFO : Installing Sinatra instrumentation
+[05/04/15 11:59:08 -0300 fringe.local (10588)] INFO : Installing deferred Rack instrumentation
+[05/04/15 11:59:08 -0300 fringe.local (10588)] INFO : Installing Rack::Builder middleware instrumentation
+[05/04/15 11:59:08 -0300 fringe.local (10588)] INFO : Installing Sidekiq instrumentation
+[05/04/15 11:59:08 -0300 fringe.local (10588)] INFO : Installing Typhoeus instrumentation
+[05/04/15 11:59:08 -0300 fringe.local (10588)] INFO : Finished instrumentation
+[05/04/15 11:59:12 -0300 fringe.local (10588)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/8668258
+[05/04/15 12:05:19 -0300 fringe.local (10872)] INFO : Starting the New Relic agent in "development" environment.
+[05/04/15 12:05:19 -0300 fringe.local (10872)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/04/15 12:05:19 -0300 fringe.local (10872)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[05/04/15 12:05:19 -0300 fringe.local (10872)] INFO : Environment: development
+[05/04/15 12:05:19 -0300 fringe.local (10872)] INFO : No known dispatcher detected.
+[05/04/15 12:05:19 -0300 fringe.local (10872)] INFO : Application: DataCollector (Development)
+[05/04/15 12:05:20 -0300 fringe.local (10872)] INFO : Installing Net instrumentation
+[05/04/15 12:05:20 -0300 fringe.local (10872)] INFO : Installing Sinatra instrumentation
+[05/04/15 12:05:20 -0300 fringe.local (10872)] INFO : Installing deferred Rack instrumentation
+[05/04/15 12:05:20 -0300 fringe.local (10872)] INFO : Installing Rack::Builder middleware instrumentation
+[05/04/15 12:05:20 -0300 fringe.local (10872)] INFO : Installing Sidekiq instrumentation
+[05/04/15 12:05:20 -0300 fringe.local (10872)] INFO : Installing Typhoeus instrumentation
+[05/04/15 12:05:20 -0300 fringe.local (10872)] INFO : Finished instrumentation
+[05/04/15 12:05:21 -0300 fringe.local (10872)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/8668258
+[05/04/15 12:09:09 -0300 fringe.local (11177)] INFO : Starting the New Relic agent in "development" environment.
+[05/04/15 12:09:09 -0300 fringe.local (11177)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/04/15 12:09:09 -0300 fringe.local (11177)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[05/04/15 12:09:09 -0300 fringe.local (11177)] INFO : Environment: development
+[05/04/15 12:09:09 -0300 fringe.local (11177)] INFO : No known dispatcher detected.
+[05/04/15 12:09:09 -0300 fringe.local (11177)] INFO : Application: DataCollector (Development)
+[05/04/15 12:09:09 -0300 fringe.local (11177)] INFO : Installing Net instrumentation
+[05/04/15 12:09:09 -0300 fringe.local (11177)] INFO : Installing Sinatra instrumentation
+[05/04/15 12:09:09 -0300 fringe.local (11177)] INFO : Installing deferred Rack instrumentation
+[05/04/15 12:09:09 -0300 fringe.local (11177)] INFO : Installing Rack::Builder middleware instrumentation
+[05/04/15 12:09:09 -0300 fringe.local (11177)] INFO : Installing Sidekiq instrumentation
+[05/04/15 12:09:09 -0300 fringe.local (11177)] INFO : Installing Typhoeus instrumentation
+[05/04/15 12:09:09 -0300 fringe.local (11177)] INFO : Finished instrumentation
+[05/04/15 12:09:13 -0300 fringe.local (11177)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/8668258
+[05/04/15 12:09:47 -0300 fringe.local (11252)] INFO : Starting the New Relic agent in "development" environment.
+[05/04/15 12:09:47 -0300 fringe.local (11252)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/04/15 12:09:47 -0300 fringe.local (11252)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[05/04/15 12:09:47 -0300 fringe.local (11252)] INFO : Environment: development
+[05/04/15 12:09:47 -0300 fringe.local (11252)] INFO : No known dispatcher detected.
+[05/04/15 12:09:47 -0300 fringe.local (11252)] INFO : Application: DataCollector (Development)
+[05/04/15 12:09:47 -0300 fringe.local (11252)] INFO : Installing Net instrumentation
+[05/04/15 12:09:47 -0300 fringe.local (11252)] INFO : Installing Sinatra instrumentation
+[05/04/15 12:09:47 -0300 fringe.local (11252)] INFO : Installing deferred Rack instrumentation
+[05/04/15 12:09:47 -0300 fringe.local (11252)] INFO : Installing Rack::Builder middleware instrumentation
+[05/04/15 12:09:47 -0300 fringe.local (11252)] INFO : Installing Sidekiq instrumentation
+[05/04/15 12:09:47 -0300 fringe.local (11252)] INFO : Installing Typhoeus instrumentation
+[05/04/15 12:09:47 -0300 fringe.local (11252)] INFO : Finished instrumentation
+[05/04/15 12:09:49 -0300 fringe.local (11252)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/8668258
+[05/04/15 12:14:11 -0300 fringe.local (11698)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[05/04/15 12:14:11 -0300 fringe.local (11698)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[05/04/15 12:16:05 -0300 fringe.local (12481)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[05/04/15 12:16:05 -0300 fringe.local (12481)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[05/04/15 17:11:57 -0300 fringe.local (26822)] INFO : Starting the New Relic agent in "development" environment.
+[05/04/15 17:11:57 -0300 fringe.local (26822)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/04/15 17:11:57 -0300 fringe.local (26822)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[05/04/15 17:11:57 -0300 fringe.local (26822)] INFO : Environment: development
+[05/04/15 17:11:57 -0300 fringe.local (26822)] INFO : No known dispatcher detected.
+[05/04/15 17:11:57 -0300 fringe.local (26822)] INFO : Application: DataCollector (Development)
+[05/04/15 17:11:57 -0300 fringe.local (26822)] INFO : Installing Net instrumentation
+[05/04/15 17:11:57 -0300 fringe.local (26822)] INFO : Installing Sinatra instrumentation
+[05/04/15 17:11:57 -0300 fringe.local (26822)] INFO : Installing deferred Rack instrumentation
+[05/04/15 17:11:57 -0300 fringe.local (26822)] INFO : Installing Rack::Builder middleware instrumentation
+[05/04/15 17:11:57 -0300 fringe.local (26822)] INFO : Installing Sidekiq instrumentation
+[05/04/15 17:11:57 -0300 fringe.local (26822)] INFO : Installing Typhoeus instrumentation
+[05/04/15 17:11:57 -0300 fringe.local (26822)] INFO : Finished instrumentation
+[05/04/15 17:11:59 -0300 fringe.local (26822)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/8668258
+[05/29/15 14:14:15 -0300 fringe.local (97218)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[05/29/15 14:14:15 -0300 fringe.local (97218)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[05/29/15 14:16:23 -0300 fringe.local (97756)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[05/29/15 14:16:23 -0300 fringe.local (97756)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[06/08/15 11:37:06 -0300 fringe.local (78940)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[06/08/15 11:37:06 -0300 fringe.local (78940)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[06/10/15 12:21:13 -0300 fringe.local (39533)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[06/10/15 12:21:13 -0300 fringe.local (39533)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[07/13/15 16:00:26 -0300 fringe.local (55647)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[07/13/15 16:00:26 -0300 fringe.local (55647)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/07/15 16:16:36 -0300 fringe.local (71593)] INFO : Starting the New Relic agent in "development" environment.
+[08/07/15 16:16:36 -0300 fringe.local (71593)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/07/15 16:16:36 -0300 fringe.local (71593)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/07/15 16:16:36 -0300 fringe.local (71593)] INFO : Environment: development
+[08/07/15 16:16:36 -0300 fringe.local (71593)] INFO : No known dispatcher detected.
+[08/07/15 16:16:36 -0300 fringe.local (71593)] INFO : Application: DataCollector (Development)
+[08/07/15 16:16:36 -0300 fringe.local (71593)] INFO : Installing Net instrumentation
+[08/07/15 16:16:36 -0300 fringe.local (71593)] INFO : Installing Sinatra instrumentation
+[08/07/15 16:16:36 -0300 fringe.local (71593)] INFO : Installing deferred Rack instrumentation
+[08/07/15 16:16:36 -0300 fringe.local (71593)] INFO : Installing Rack::Builder middleware instrumentation
+[08/07/15 16:16:36 -0300 fringe.local (71593)] INFO : Installing Sidekiq instrumentation
+[08/07/15 16:16:36 -0300 fringe.local (71593)] INFO : Installing Typhoeus instrumentation
+[08/07/15 16:16:36 -0300 fringe.local (71593)] INFO : Finished instrumentation
+[08/07/15 16:16:38 -0300 fringe.local (71593)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/9577225
+[08/07/15 16:24:09 -0300 fringe.local (72115)] INFO : Starting the New Relic agent in "development" environment.
+[08/07/15 16:24:09 -0300 fringe.local (72115)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/07/15 16:24:09 -0300 fringe.local (72115)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/07/15 16:24:09 -0300 fringe.local (72115)] INFO : Environment: development
+[08/07/15 16:24:09 -0300 fringe.local (72115)] INFO : No known dispatcher detected.
+[08/07/15 16:24:09 -0300 fringe.local (72115)] INFO : Application: DataCollector (Development)
+[08/07/15 16:24:09 -0300 fringe.local (72115)] INFO : Installing Net instrumentation
+[08/07/15 16:24:09 -0300 fringe.local (72115)] INFO : Installing Sinatra instrumentation
+[08/07/15 16:24:09 -0300 fringe.local (72115)] INFO : Installing deferred Rack instrumentation
+[08/07/15 16:24:09 -0300 fringe.local (72115)] INFO : Installing Rack::Builder middleware instrumentation
+[08/07/15 16:24:09 -0300 fringe.local (72115)] INFO : Installing Sidekiq instrumentation
+[08/07/15 16:24:09 -0300 fringe.local (72115)] INFO : Installing Typhoeus instrumentation
+[08/07/15 16:24:09 -0300 fringe.local (72115)] INFO : Finished instrumentation
+[08/07/15 16:24:11 -0300 fringe.local (72115)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/9577225
+[08/07/15 16:25:05 -0300 fringe.local (72266)] INFO : Starting the New Relic agent in "development" environment.
+[08/07/15 16:25:05 -0300 fringe.local (72266)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/07/15 16:25:05 -0300 fringe.local (72266)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/07/15 16:25:05 -0300 fringe.local (72266)] INFO : Environment: development
+[08/07/15 16:25:05 -0300 fringe.local (72266)] INFO : No known dispatcher detected.
+[08/07/15 16:25:05 -0300 fringe.local (72266)] INFO : Application: DataCollector (Development)
+[08/07/15 16:25:05 -0300 fringe.local (72266)] INFO : Installing Net instrumentation
+[08/07/15 16:25:05 -0300 fringe.local (72266)] INFO : Installing Sinatra instrumentation
+[08/07/15 16:25:05 -0300 fringe.local (72266)] INFO : Installing deferred Rack instrumentation
+[08/07/15 16:25:05 -0300 fringe.local (72266)] INFO : Installing Rack::Builder middleware instrumentation
+[08/07/15 16:25:05 -0300 fringe.local (72266)] INFO : Installing Sidekiq instrumentation
+[08/07/15 16:25:05 -0300 fringe.local (72266)] INFO : Installing Typhoeus instrumentation
+[08/07/15 16:25:05 -0300 fringe.local (72266)] INFO : Finished instrumentation
+[08/07/15 16:25:06 -0300 fringe.local (72266)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/9577225
+[08/07/15 16:54:57 -0300 fringe.local (75386)] INFO : Starting the New Relic agent in "development" environment.
+[08/07/15 16:54:57 -0300 fringe.local (75386)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/07/15 16:54:57 -0300 fringe.local (75386)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/07/15 16:54:57 -0300 fringe.local (75386)] INFO : Environment: development
+[08/07/15 16:54:57 -0300 fringe.local (75386)] INFO : No known dispatcher detected.
+[08/07/15 16:54:57 -0300 fringe.local (75386)] INFO : Application: DataCollector (Development)
+[08/07/15 16:54:57 -0300 fringe.local (75386)] INFO : Installing Net instrumentation
+[08/07/15 16:54:57 -0300 fringe.local (75386)] INFO : Installing Sinatra instrumentation
+[08/07/15 16:54:57 -0300 fringe.local (75386)] INFO : Installing deferred Rack instrumentation
+[08/07/15 16:54:57 -0300 fringe.local (75386)] INFO : Installing Rack::Builder middleware instrumentation
+[08/07/15 16:54:57 -0300 fringe.local (75386)] INFO : Installing Sidekiq instrumentation
+[08/07/15 16:54:57 -0300 fringe.local (75386)] INFO : Installing Typhoeus instrumentation
+[08/07/15 16:54:57 -0300 fringe.local (75386)] INFO : Finished instrumentation
+[08/07/15 16:54:59 -0300 fringe.local (75386)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/9577225
+[08/10/15 10:39:40 -0300 fringe.local (9017)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/10/15 10:39:40 -0300 fringe.local (9017)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/10/15 12:25:20 -0300 fringe.local (13935)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/10/15 12:25:20 -0300 fringe.local (13935)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/10/15 13:27:34 -0300 fringe.local (17243)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/10/15 13:27:34 -0300 fringe.local (17243)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/11/15 19:39:03 -0300 fringe.local (58301)] INFO : Starting the New Relic agent in "development" environment.
+[08/11/15 19:39:03 -0300 fringe.local (58301)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/11/15 19:39:03 -0300 fringe.local (58301)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/11/15 19:39:03 -0300 fringe.local (58301)] INFO : Environment: development
+[08/11/15 19:39:03 -0300 fringe.local (58301)] INFO : No known dispatcher detected.
+[08/11/15 19:39:03 -0300 fringe.local (58301)] INFO : Application: DataCollector (Development)
+[08/11/15 19:39:03 -0300 fringe.local (58301)] INFO : Installing Net instrumentation
+[08/11/15 19:39:03 -0300 fringe.local (58301)] INFO : Installing Sinatra instrumentation
+[08/11/15 19:39:03 -0300 fringe.local (58301)] INFO : Installing deferred Rack instrumentation
+[08/11/15 19:39:03 -0300 fringe.local (58301)] INFO : Installing Rack::Builder middleware instrumentation
+[08/11/15 19:39:03 -0300 fringe.local (58301)] INFO : Installing Sidekiq instrumentation
+[08/11/15 19:39:03 -0300 fringe.local (58301)] INFO : Installing Typhoeus instrumentation
+[08/11/15 19:39:03 -0300 fringe.local (58301)] INFO : Finished instrumentation
+[08/11/15 19:39:05 -0300 fringe.local (58301)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/9577225
+[08/11/15 19:48:48 -0300 fringe.local (58751)] INFO : Starting the New Relic agent in "development" environment.
+[08/11/15 19:48:48 -0300 fringe.local (58751)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/11/15 19:48:48 -0300 fringe.local (58751)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/11/15 19:48:48 -0300 fringe.local (58751)] INFO : Environment: development
+[08/11/15 19:48:48 -0300 fringe.local (58751)] INFO : No known dispatcher detected.
+[08/11/15 19:48:48 -0300 fringe.local (58751)] INFO : Application: DataCollector (Development)
+[08/11/15 19:48:48 -0300 fringe.local (58751)] INFO : Installing Net instrumentation
+[08/11/15 19:48:48 -0300 fringe.local (58751)] INFO : Installing Sinatra instrumentation
+[08/11/15 19:48:48 -0300 fringe.local (58751)] INFO : Installing deferred Rack instrumentation
+[08/11/15 19:48:48 -0300 fringe.local (58751)] INFO : Installing Rack::Builder middleware instrumentation
+[08/11/15 19:48:48 -0300 fringe.local (58751)] INFO : Installing Sidekiq instrumentation
+[08/11/15 19:48:48 -0300 fringe.local (58751)] INFO : Installing Typhoeus instrumentation
+[08/11/15 19:48:48 -0300 fringe.local (58751)] INFO : Finished instrumentation
+[08/11/15 19:48:50 -0300 fringe.local (58751)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/9577225
+[08/11/15 20:00:51 -0300 fringe.local (59561)] INFO : Starting the New Relic agent in "development" environment.
+[08/11/15 20:00:51 -0300 fringe.local (59561)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/11/15 20:00:51 -0300 fringe.local (59561)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/11/15 20:00:51 -0300 fringe.local (59561)] INFO : Environment: development
+[08/11/15 20:00:51 -0300 fringe.local (59561)] INFO : No known dispatcher detected.
+[08/11/15 20:00:51 -0300 fringe.local (59561)] INFO : Application: DataCollector (Development)
+[08/11/15 20:00:52 -0300 fringe.local (59561)] INFO : Installing Net instrumentation
+[08/11/15 20:00:52 -0300 fringe.local (59561)] INFO : Installing Sinatra instrumentation
+[08/11/15 20:00:52 -0300 fringe.local (59561)] INFO : Installing deferred Rack instrumentation
+[08/11/15 20:00:52 -0300 fringe.local (59561)] INFO : Installing Rack::Builder middleware instrumentation
+[08/11/15 20:00:52 -0300 fringe.local (59561)] INFO : Installing Sidekiq instrumentation
+[08/11/15 20:00:52 -0300 fringe.local (59561)] INFO : Installing Typhoeus instrumentation
+[08/11/15 20:00:52 -0300 fringe.local (59561)] INFO : Finished instrumentation
+[08/11/15 20:00:54 -0300 fringe.local (59561)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/9577225
+[08/11/15 20:02:48 -0300 fringe.local (59752)] INFO : Starting the New Relic agent in "development" environment.
+[08/11/15 20:02:48 -0300 fringe.local (59752)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/11/15 20:02:48 -0300 fringe.local (59752)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/11/15 20:02:48 -0300 fringe.local (59752)] INFO : Environment: development
+[08/11/15 20:02:48 -0300 fringe.local (59752)] INFO : No known dispatcher detected.
+[08/11/15 20:02:48 -0300 fringe.local (59752)] INFO : Application: DataCollector (Development)
+[08/11/15 20:02:48 -0300 fringe.local (59752)] INFO : Installing Net instrumentation
+[08/11/15 20:02:48 -0300 fringe.local (59752)] INFO : Installing Sinatra instrumentation
+[08/11/15 20:02:48 -0300 fringe.local (59752)] INFO : Installing deferred Rack instrumentation
+[08/11/15 20:02:48 -0300 fringe.local (59752)] INFO : Installing Rack::Builder middleware instrumentation
+[08/11/15 20:02:48 -0300 fringe.local (59752)] INFO : Installing Sidekiq instrumentation
+[08/11/15 20:02:48 -0300 fringe.local (59752)] INFO : Installing Typhoeus instrumentation
+[08/11/15 20:02:48 -0300 fringe.local (59752)] INFO : Finished instrumentation
+[08/11/15 20:02:50 -0300 fringe.local (59752)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/9577225
+[08/11/15 20:03:38 -0300 fringe.local (59900)] INFO : Starting the New Relic agent in "development" environment.
+[08/11/15 20:03:38 -0300 fringe.local (59900)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/11/15 20:03:38 -0300 fringe.local (59900)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/11/15 20:03:38 -0300 fringe.local (59900)] INFO : Environment: development
+[08/11/15 20:03:38 -0300 fringe.local (59900)] INFO : No known dispatcher detected.
+[08/11/15 20:03:38 -0300 fringe.local (59900)] INFO : Application: DataCollector (Development)
+[08/11/15 20:03:38 -0300 fringe.local (59900)] INFO : Installing Net instrumentation
+[08/11/15 20:03:38 -0300 fringe.local (59900)] INFO : Installing Sinatra instrumentation
+[08/11/15 20:03:38 -0300 fringe.local (59900)] INFO : Installing deferred Rack instrumentation
+[08/11/15 20:03:38 -0300 fringe.local (59900)] INFO : Installing Rack::Builder middleware instrumentation
+[08/11/15 20:03:38 -0300 fringe.local (59900)] INFO : Installing Sidekiq instrumentation
+[08/11/15 20:03:38 -0300 fringe.local (59900)] INFO : Installing Typhoeus instrumentation
+[08/11/15 20:03:38 -0300 fringe.local (59900)] INFO : Finished instrumentation
+[08/11/15 20:03:40 -0300 fringe.local (59900)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/9577225
+[08/11/15 20:04:33 -0300 fringe.local (60022)] INFO : Starting the New Relic agent in "development" environment.
+[08/11/15 20:04:33 -0300 fringe.local (60022)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/11/15 20:04:33 -0300 fringe.local (60022)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/11/15 20:04:33 -0300 fringe.local (60022)] INFO : Environment: development
+[08/11/15 20:04:33 -0300 fringe.local (60022)] INFO : No known dispatcher detected.
+[08/11/15 20:04:33 -0300 fringe.local (60022)] INFO : Application: DataCollector (Development)
+[08/11/15 20:04:33 -0300 fringe.local (60022)] INFO : Installing Net instrumentation
+[08/11/15 20:04:33 -0300 fringe.local (60022)] INFO : Installing Sinatra instrumentation
+[08/11/15 20:04:33 -0300 fringe.local (60022)] INFO : Installing deferred Rack instrumentation
+[08/11/15 20:04:33 -0300 fringe.local (60022)] INFO : Installing Rack::Builder middleware instrumentation
+[08/11/15 20:04:33 -0300 fringe.local (60022)] INFO : Installing Sidekiq instrumentation
+[08/11/15 20:04:33 -0300 fringe.local (60022)] INFO : Installing Typhoeus instrumentation
+[08/11/15 20:04:33 -0300 fringe.local (60022)] INFO : Finished instrumentation
+[08/11/15 20:04:35 -0300 fringe.local (60022)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/9577225
+[08/11/15 20:05:32 -0300 fringe.local (60136)] INFO : Starting the New Relic agent in "development" environment.
+[08/11/15 20:05:32 -0300 fringe.local (60136)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/11/15 20:05:32 -0300 fringe.local (60136)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/11/15 20:05:32 -0300 fringe.local (60136)] INFO : Environment: development
+[08/11/15 20:05:32 -0300 fringe.local (60136)] INFO : No known dispatcher detected.
+[08/11/15 20:05:32 -0300 fringe.local (60136)] INFO : Application: DataCollector (Development)
+[08/11/15 20:05:32 -0300 fringe.local (60136)] INFO : Installing Net instrumentation
+[08/11/15 20:05:32 -0300 fringe.local (60136)] INFO : Installing Sinatra instrumentation
+[08/11/15 20:05:32 -0300 fringe.local (60136)] INFO : Installing deferred Rack instrumentation
+[08/11/15 20:05:32 -0300 fringe.local (60136)] INFO : Installing Rack::Builder middleware instrumentation
+[08/11/15 20:05:32 -0300 fringe.local (60136)] INFO : Installing Sidekiq instrumentation
+[08/11/15 20:05:32 -0300 fringe.local (60136)] INFO : Installing Typhoeus instrumentation
+[08/11/15 20:05:32 -0300 fringe.local (60136)] INFO : Finished instrumentation
+[08/11/15 20:05:34 -0300 fringe.local (60136)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/9577225
+[08/11/15 20:06:17 -0300 fringe.local (60244)] INFO : Starting the New Relic agent in "development" environment.
+[08/11/15 20:06:17 -0300 fringe.local (60244)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/11/15 20:06:17 -0300 fringe.local (60244)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/11/15 20:06:17 -0300 fringe.local (60244)] INFO : Environment: development
+[08/11/15 20:06:17 -0300 fringe.local (60244)] INFO : No known dispatcher detected.
+[08/11/15 20:06:17 -0300 fringe.local (60244)] INFO : Application: DataCollector (Development)
+[08/11/15 20:06:17 -0300 fringe.local (60244)] INFO : Installing Net instrumentation
+[08/11/15 20:06:17 -0300 fringe.local (60244)] INFO : Installing Sinatra instrumentation
+[08/11/15 20:06:17 -0300 fringe.local (60244)] INFO : Installing deferred Rack instrumentation
+[08/11/15 20:06:17 -0300 fringe.local (60244)] INFO : Installing Rack::Builder middleware instrumentation
+[08/11/15 20:06:17 -0300 fringe.local (60244)] INFO : Installing Sidekiq instrumentation
+[08/11/15 20:06:17 -0300 fringe.local (60244)] INFO : Installing Typhoeus instrumentation
+[08/11/15 20:06:17 -0300 fringe.local (60244)] INFO : Finished instrumentation
+[08/11/15 20:06:18 -0300 fringe.local (60244)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/9577225
+[08/11/15 20:07:37 -0300 fringe.local (60412)] INFO : Starting the New Relic agent in "development" environment.
+[08/11/15 20:07:37 -0300 fringe.local (60412)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/11/15 20:07:37 -0300 fringe.local (60412)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/11/15 20:07:37 -0300 fringe.local (60412)] INFO : Environment: development
+[08/11/15 20:07:37 -0300 fringe.local (60412)] INFO : No known dispatcher detected.
+[08/11/15 20:07:37 -0300 fringe.local (60412)] INFO : Application: DataCollector (Development)
+[08/11/15 20:07:37 -0300 fringe.local (60412)] INFO : Installing Net instrumentation
+[08/11/15 20:07:37 -0300 fringe.local (60412)] INFO : Installing Sinatra instrumentation
+[08/11/15 20:07:37 -0300 fringe.local (60412)] INFO : Installing deferred Rack instrumentation
+[08/11/15 20:07:37 -0300 fringe.local (60412)] INFO : Installing Rack::Builder middleware instrumentation
+[08/11/15 20:07:37 -0300 fringe.local (60412)] INFO : Installing Sidekiq instrumentation
+[08/11/15 20:07:37 -0300 fringe.local (60412)] INFO : Installing Typhoeus instrumentation
+[08/11/15 20:07:37 -0300 fringe.local (60412)] INFO : Finished instrumentation
+[08/11/15 20:07:39 -0300 fringe.local (60412)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/9577225
+[08/11/15 20:08:12 -0300 fringe.local (60494)] INFO : Starting the New Relic agent in "development" environment.
+[08/11/15 20:08:12 -0300 fringe.local (60494)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/11/15 20:08:12 -0300 fringe.local (60494)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/11/15 20:08:12 -0300 fringe.local (60494)] INFO : Environment: development
+[08/11/15 20:08:12 -0300 fringe.local (60494)] INFO : No known dispatcher detected.
+[08/11/15 20:08:12 -0300 fringe.local (60494)] INFO : Application: DataCollector (Development)
+[08/11/15 20:08:12 -0300 fringe.local (60494)] INFO : Installing Net instrumentation
+[08/11/15 20:08:12 -0300 fringe.local (60494)] INFO : Installing Sinatra instrumentation
+[08/11/15 20:08:12 -0300 fringe.local (60494)] INFO : Installing deferred Rack instrumentation
+[08/11/15 20:08:12 -0300 fringe.local (60494)] INFO : Installing Rack::Builder middleware instrumentation
+[08/11/15 20:08:12 -0300 fringe.local (60494)] INFO : Installing Sidekiq instrumentation
+[08/11/15 20:08:12 -0300 fringe.local (60494)] INFO : Installing Typhoeus instrumentation
+[08/11/15 20:08:12 -0300 fringe.local (60494)] INFO : Finished instrumentation
+[08/11/15 20:08:14 -0300 fringe.local (60494)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/9577225
+[08/11/15 20:09:37 -0300 fringe.local (60703)] INFO : Starting the New Relic agent in "development" environment.
+[08/11/15 20:09:37 -0300 fringe.local (60703)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/11/15 20:09:37 -0300 fringe.local (60703)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/11/15 20:09:37 -0300 fringe.local (60703)] INFO : Environment: development
+[08/11/15 20:09:37 -0300 fringe.local (60703)] INFO : No known dispatcher detected.
+[08/11/15 20:09:37 -0300 fringe.local (60703)] INFO : Application: DataCollector (Development)
+[08/11/15 20:09:37 -0300 fringe.local (60703)] INFO : Installing Net instrumentation
+[08/11/15 20:09:37 -0300 fringe.local (60703)] INFO : Installing Sinatra instrumentation
+[08/11/15 20:09:37 -0300 fringe.local (60703)] INFO : Installing deferred Rack instrumentation
+[08/11/15 20:09:37 -0300 fringe.local (60703)] INFO : Installing Rack::Builder middleware instrumentation
+[08/11/15 20:09:37 -0300 fringe.local (60703)] INFO : Installing Sidekiq instrumentation
+[08/11/15 20:09:37 -0300 fringe.local (60703)] INFO : Installing Typhoeus instrumentation
+[08/11/15 20:09:37 -0300 fringe.local (60703)] INFO : Finished instrumentation
+[08/11/15 20:09:38 -0300 fringe.local (60703)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/9577225
+[08/11/15 20:10:10 -0300 fringe.local (60811)] INFO : Starting the New Relic agent in "development" environment.
+[08/11/15 20:10:10 -0300 fringe.local (60811)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/11/15 20:10:10 -0300 fringe.local (60811)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/11/15 20:10:10 -0300 fringe.local (60811)] INFO : Environment: development
+[08/11/15 20:10:10 -0300 fringe.local (60811)] INFO : No known dispatcher detected.
+[08/11/15 20:10:10 -0300 fringe.local (60811)] INFO : Application: DataCollector (Development)
+[08/11/15 20:10:10 -0300 fringe.local (60811)] INFO : Installing Net instrumentation
+[08/11/15 20:10:10 -0300 fringe.local (60811)] INFO : Installing Sinatra instrumentation
+[08/11/15 20:10:10 -0300 fringe.local (60811)] INFO : Installing deferred Rack instrumentation
+[08/11/15 20:10:10 -0300 fringe.local (60811)] INFO : Installing Rack::Builder middleware instrumentation
+[08/11/15 20:10:10 -0300 fringe.local (60811)] INFO : Installing Sidekiq instrumentation
+[08/11/15 20:10:10 -0300 fringe.local (60811)] INFO : Installing Typhoeus instrumentation
+[08/11/15 20:10:10 -0300 fringe.local (60811)] INFO : Finished instrumentation
+[08/11/15 20:10:12 -0300 fringe.local (60811)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/9577225
+[08/11/15 20:10:32 -0300 fringe.local (60944)] INFO : Starting the New Relic agent in "development" environment.
+[08/11/15 20:10:32 -0300 fringe.local (60944)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/11/15 20:10:32 -0300 fringe.local (60944)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/11/15 20:10:32 -0300 fringe.local (60944)] INFO : Environment: development
+[08/11/15 20:10:32 -0300 fringe.local (60944)] INFO : No known dispatcher detected.
+[08/11/15 20:10:32 -0300 fringe.local (60944)] INFO : Application: DataCollector (Development)
+[08/11/15 20:10:32 -0300 fringe.local (60944)] INFO : Installing Net instrumentation
+[08/11/15 20:10:32 -0300 fringe.local (60944)] INFO : Installing Sinatra instrumentation
+[08/11/15 20:10:32 -0300 fringe.local (60944)] INFO : Installing deferred Rack instrumentation
+[08/11/15 20:10:32 -0300 fringe.local (60944)] INFO : Installing Rack::Builder middleware instrumentation
+[08/11/15 20:10:32 -0300 fringe.local (60944)] INFO : Installing Sidekiq instrumentation
+[08/11/15 20:10:32 -0300 fringe.local (60944)] INFO : Installing Typhoeus instrumentation
+[08/11/15 20:10:32 -0300 fringe.local (60944)] INFO : Finished instrumentation
+[08/11/15 20:10:34 -0300 fringe.local (60944)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/9577225
+[08/11/15 20:10:54 -0300 fringe.local (61046)] INFO : Starting the New Relic agent in "development" environment.
+[08/11/15 20:10:54 -0300 fringe.local (61046)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[08/11/15 20:10:54 -0300 fringe.local (61046)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/11/15 20:10:54 -0300 fringe.local (61046)] INFO : Environment: development
+[08/11/15 20:10:54 -0300 fringe.local (61046)] INFO : No known dispatcher detected.
+[08/11/15 20:10:54 -0300 fringe.local (61046)] INFO : Application: DataCollector (Development)
+[08/11/15 20:10:54 -0300 fringe.local (61046)] INFO : Installing Net instrumentation
+[08/11/15 20:10:54 -0300 fringe.local (61046)] INFO : Installing Sinatra instrumentation
+[08/11/15 20:10:54 -0300 fringe.local (61046)] INFO : Installing deferred Rack instrumentation
+[08/11/15 20:10:54 -0300 fringe.local (61046)] INFO : Installing Rack::Builder middleware instrumentation
+[08/11/15 20:10:54 -0300 fringe.local (61046)] INFO : Installing Sidekiq instrumentation
+[08/11/15 20:10:54 -0300 fringe.local (61046)] INFO : Installing Typhoeus instrumentation
+[08/11/15 20:10:54 -0300 fringe.local (61046)] INFO : Finished instrumentation
+[08/11/15 20:10:56 -0300 fringe.local (61046)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/9577225
+[08/12/15 09:10:58 -0300 fringe.local (65034)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 09:10:58 -0300 fringe.local (65034)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 09:15:16 -0300 fringe.local (65511)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 09:15:16 -0300 fringe.local (65511)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 09:15:55 -0300 fringe.local (65595)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 09:15:55 -0300 fringe.local (65595)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 09:23:09 -0300 fringe.local (66190)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 09:23:09 -0300 fringe.local (66190)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 09:23:38 -0300 fringe.local (66269)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 09:23:38 -0300 fringe.local (66269)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 09:26:15 -0300 fringe.local (66605)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 09:26:15 -0300 fringe.local (66605)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 09:26:45 -0300 fringe.local (66683)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 09:26:45 -0300 fringe.local (66683)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 10:08:55 -0300 fringe.local (68421)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 10:08:55 -0300 fringe.local (68421)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 10:15:10 -0300 fringe.local (68977)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 10:15:10 -0300 fringe.local (68977)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 10:17:02 -0300 fringe.local (69096)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 10:17:02 -0300 fringe.local (69096)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 10:53:16 -0300 fringe.local (71643)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 10:53:16 -0300 fringe.local (71643)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 11:02:01 -0300 fringe.local (72048)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 11:02:01 -0300 fringe.local (72048)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 11:14:55 -0300 fringe.local (73182)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 11:14:55 -0300 fringe.local (73182)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 11:28:45 -0300 fringe.local (73885)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 11:28:45 -0300 fringe.local (73885)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 11:34:00 -0300 fringe.local (74341)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 11:34:00 -0300 fringe.local (74341)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 12:05:47 -0300 fringe.local (77025)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 12:05:47 -0300 fringe.local (77025)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 15:05:04 -0300 fringe.local (84572)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 15:05:04 -0300 fringe.local (84572)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 15:15:08 -0300 fringe.local (88264)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 15:15:08 -0300 fringe.local (88264)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 17:03:13 -0300 fringe.local (94963)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 17:03:13 -0300 fringe.local (94963)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 17:13:43 -0300 fringe.local (95982)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 17:13:43 -0300 fringe.local (95982)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 17:17:13 -0300 fringe.local (96424)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 17:17:13 -0300 fringe.local (96424)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 17:23:26 -0300 fringe.local (98159)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 17:23:26 -0300 fringe.local (98159)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[08/12/15 17:24:01 -0300 fringe.local (98244)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[08/12/15 17:24:01 -0300 fringe.local (98244)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/03/15 12:56:38 -0300 fringe.local (44371)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/03/15 12:56:38 -0300 fringe.local (44371)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/04/15 15:27:49 -0300 fringe.local (78365)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/04/15 15:27:49 -0300 fringe.local (78365)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/04/15 15:30:02 -0300 fringe.local (78766)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/04/15 15:30:02 -0300 fringe.local (78766)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/04/15 15:30:35 -0300 fringe.local (78846)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/04/15 15:30:35 -0300 fringe.local (78846)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/04/15 15:33:18 -0300 fringe.local (79202)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/04/15 15:33:18 -0300 fringe.local (79202)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/04/15 17:06:32 -0300 fringe.local (83371)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/04/15 17:06:32 -0300 fringe.local (83371)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/04/15 17:12:43 -0300 fringe.local (83652)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/04/15 17:12:43 -0300 fringe.local (83652)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/04/15 17:20:51 -0300 fringe.local (84068)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/04/15 17:20:51 -0300 fringe.local (84068)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/09/15 12:22:34 -0300 fringe.local (16871)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/09/15 12:22:34 -0300 fringe.local (16871)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/09/15 16:55:40 -0300 fringe.local (36707)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/09/15 16:55:40 -0300 fringe.local (36707)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/09/15 17:43:31 -0300 fringe.local (41088)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/09/15 17:43:31 -0300 fringe.local (41088)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/09/15 18:11:54 -0300 fringe.local (43820)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/09/15 18:11:54 -0300 fringe.local (43820)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/10/15 09:21:36 -0300 fringe.local (50628)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/10/15 09:21:36 -0300 fringe.local (50628)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/10/15 10:08:35 -0300 fringe.local (54033)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/10/15 10:08:35 -0300 fringe.local (54033)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/10/15 10:09:11 -0300 fringe.local (54122)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/10/15 10:09:11 -0300 fringe.local (54122)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/10/15 11:43:48 -0300 fringe.local (64955)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/10/15 11:43:48 -0300 fringe.local (64955)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/10/15 11:44:24 -0300 fringe.local (65037)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/10/15 11:44:24 -0300 fringe.local (65037)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/15/15 12:18:31 -0300 fringe.local (36805)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/15/15 12:18:31 -0300 fringe.local (36805)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/15/15 12:20:00 -0300 fringe.local (36922)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/15/15 12:20:00 -0300 fringe.local (36922)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/24/15 15:58:05 -0300 fringe.local (57759)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/24/15 15:58:05 -0300 fringe.local (57759)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/24/15 15:59:56 -0300 fringe.local (58099)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/24/15 15:59:56 -0300 fringe.local (58099)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/24/15 18:19:28 -0300 fringe.local (66231)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/24/15 18:19:28 -0300 fringe.local (66231)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/25/15 13:01:39 -0300 fringe.local (76380)] INFO : Starting the New Relic agent in "development" environment.
+[09/25/15 13:01:39 -0300 fringe.local (76380)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[09/25/15 13:01:39 -0300 fringe.local (76380)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/25/15 13:01:39 -0300 fringe.local (76380)] INFO : Environment: development
+[09/25/15 13:01:39 -0300 fringe.local (76380)] INFO : No known dispatcher detected.
+[09/25/15 13:01:39 -0300 fringe.local (76380)] INFO : Application: DataCollector (Development)
+[09/25/15 13:01:39 -0300 fringe.local (76380)] INFO : Installing Net instrumentation
+[09/25/15 13:01:39 -0300 fringe.local (76380)] INFO : Installing Sinatra instrumentation
+[09/25/15 13:01:39 -0300 fringe.local (76380)] INFO : Installing deferred Rack instrumentation
+[09/25/15 13:01:39 -0300 fringe.local (76380)] INFO : Installing Rack::Builder middleware instrumentation
+[09/25/15 13:01:39 -0300 fringe.local (76380)] INFO : Installing Sidekiq instrumentation
+[09/25/15 13:01:39 -0300 fringe.local (76380)] INFO : Installing Typhoeus instrumentation
+[09/25/15 13:01:39 -0300 fringe.local (76380)] INFO : Finished instrumentation
+[09/25/15 13:01:42 -0300 fringe.local (76380)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/11214765
+[09/25/15 13:07:50 -0300 fringe.local (76741)] INFO : Starting the New Relic agent in "development" environment.
+[09/25/15 13:07:50 -0300 fringe.local (76741)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[09/25/15 13:07:50 -0300 fringe.local (76741)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/25/15 13:07:50 -0300 fringe.local (76741)] INFO : Environment: development
+[09/25/15 13:07:50 -0300 fringe.local (76741)] INFO : No known dispatcher detected.
+[09/25/15 13:07:50 -0300 fringe.local (76741)] INFO : Application: DataCollector (Development)
+[09/25/15 13:07:50 -0300 fringe.local (76741)] INFO : Installing Net instrumentation
+[09/25/15 13:07:50 -0300 fringe.local (76741)] INFO : Installing Sinatra instrumentation
+[09/25/15 13:07:50 -0300 fringe.local (76741)] INFO : Installing deferred Rack instrumentation
+[09/25/15 13:07:50 -0300 fringe.local (76741)] INFO : Installing Rack::Builder middleware instrumentation
+[09/25/15 13:07:50 -0300 fringe.local (76741)] INFO : Installing Sidekiq instrumentation
+[09/25/15 13:07:50 -0300 fringe.local (76741)] INFO : Installing Typhoeus instrumentation
+[09/25/15 13:07:50 -0300 fringe.local (76741)] INFO : Finished instrumentation
+[09/25/15 13:07:52 -0300 fringe.local (76741)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/11214765
+[09/25/15 13:09:26 -0300 fringe.local (76881)] INFO : Starting the New Relic agent in "development" environment.
+[09/25/15 13:09:26 -0300 fringe.local (76881)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[09/25/15 13:09:26 -0300 fringe.local (76881)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/25/15 13:09:26 -0300 fringe.local (76881)] INFO : Environment: development
+[09/25/15 13:09:26 -0300 fringe.local (76881)] INFO : No known dispatcher detected.
+[09/25/15 13:09:26 -0300 fringe.local (76881)] INFO : Application: DataCollector (Development)
+[09/25/15 13:09:26 -0300 fringe.local (76881)] INFO : Installing Net instrumentation
+[09/25/15 13:09:26 -0300 fringe.local (76881)] INFO : Installing Sinatra instrumentation
+[09/25/15 13:09:26 -0300 fringe.local (76881)] INFO : Installing deferred Rack instrumentation
+[09/25/15 13:09:26 -0300 fringe.local (76881)] INFO : Installing Rack::Builder middleware instrumentation
+[09/25/15 13:09:26 -0300 fringe.local (76881)] INFO : Installing Sidekiq instrumentation
+[09/25/15 13:09:26 -0300 fringe.local (76881)] INFO : Installing Typhoeus instrumentation
+[09/25/15 13:09:26 -0300 fringe.local (76881)] INFO : Finished instrumentation
+[09/25/15 13:09:28 -0300 fringe.local (76881)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/11214765
+[09/25/15 13:12:45 -0300 fringe.local (77229)] INFO : Starting the New Relic agent in "development" environment.
+[09/25/15 13:12:45 -0300 fringe.local (77229)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[09/25/15 13:12:45 -0300 fringe.local (77229)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/25/15 13:12:45 -0300 fringe.local (77229)] INFO : Environment: development
+[09/25/15 13:12:45 -0300 fringe.local (77229)] INFO : No known dispatcher detected.
+[09/25/15 13:12:45 -0300 fringe.local (77229)] INFO : Application: DataCollector (Development)
+[09/25/15 13:12:46 -0300 fringe.local (77229)] INFO : Installing Net instrumentation
+[09/25/15 13:12:46 -0300 fringe.local (77229)] INFO : Installing Sinatra instrumentation
+[09/25/15 13:12:46 -0300 fringe.local (77229)] INFO : Installing deferred Rack instrumentation
+[09/25/15 13:12:46 -0300 fringe.local (77229)] INFO : Installing Rack::Builder middleware instrumentation
+[09/25/15 13:12:46 -0300 fringe.local (77229)] INFO : Installing Sidekiq instrumentation
+[09/25/15 13:12:46 -0300 fringe.local (77229)] INFO : Installing Typhoeus instrumentation
+[09/25/15 13:12:46 -0300 fringe.local (77229)] INFO : Finished instrumentation
+[09/25/15 13:12:47 -0300 fringe.local (77229)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/11214765
+[09/25/15 13:15:30 -0300 fringe.local (77424)] INFO : Starting the New Relic agent in "development" environment.
+[09/25/15 13:15:30 -0300 fringe.local (77424)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[09/25/15 13:15:30 -0300 fringe.local (77424)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/25/15 13:15:30 -0300 fringe.local (77424)] INFO : Environment: development
+[09/25/15 13:15:30 -0300 fringe.local (77424)] INFO : No known dispatcher detected.
+[09/25/15 13:15:30 -0300 fringe.local (77424)] INFO : Application: DataCollector (Development)
+[09/25/15 13:15:30 -0300 fringe.local (77424)] INFO : Installing Net instrumentation
+[09/25/15 13:15:30 -0300 fringe.local (77424)] INFO : Installing Sinatra instrumentation
+[09/25/15 13:15:30 -0300 fringe.local (77424)] INFO : Installing deferred Rack instrumentation
+[09/25/15 13:15:30 -0300 fringe.local (77424)] INFO : Installing Rack::Builder middleware instrumentation
+[09/25/15 13:15:30 -0300 fringe.local (77424)] INFO : Installing Sidekiq instrumentation
+[09/25/15 13:15:30 -0300 fringe.local (77424)] INFO : Installing Typhoeus instrumentation
+[09/25/15 13:15:30 -0300 fringe.local (77424)] INFO : Finished instrumentation
+[09/25/15 13:15:32 -0300 fringe.local (77424)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/11214765
+[09/25/15 13:16:07 -0300 fringe.local (77594)] INFO : Starting the New Relic agent in "development" environment.
+[09/25/15 13:16:07 -0300 fringe.local (77594)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[09/25/15 13:16:07 -0300 fringe.local (77594)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/25/15 13:16:07 -0300 fringe.local (77594)] INFO : Environment: development
+[09/25/15 13:16:07 -0300 fringe.local (77594)] INFO : No known dispatcher detected.
+[09/25/15 13:16:07 -0300 fringe.local (77594)] INFO : Application: DataCollector (Development)
+[09/25/15 13:16:07 -0300 fringe.local (77594)] INFO : Installing Net instrumentation
+[09/25/15 13:16:07 -0300 fringe.local (77594)] INFO : Installing Sinatra instrumentation
+[09/25/15 13:16:07 -0300 fringe.local (77594)] INFO : Installing deferred Rack instrumentation
+[09/25/15 13:16:07 -0300 fringe.local (77594)] INFO : Installing Rack::Builder middleware instrumentation
+[09/25/15 13:16:07 -0300 fringe.local (77594)] INFO : Installing Sidekiq instrumentation
+[09/25/15 13:16:07 -0300 fringe.local (77594)] INFO : Installing Typhoeus instrumentation
+[09/25/15 13:16:07 -0300 fringe.local (77594)] INFO : Finished instrumentation
+[09/25/15 13:16:09 -0300 fringe.local (77594)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/11214765
+[09/25/15 13:16:22 -0300 fringe.local (77687)] INFO : Starting the New Relic agent in "development" environment.
+[09/25/15 13:16:22 -0300 fringe.local (77687)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[09/25/15 13:16:22 -0300 fringe.local (77687)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/25/15 13:16:22 -0300 fringe.local (77687)] INFO : Environment: development
+[09/25/15 13:16:22 -0300 fringe.local (77687)] INFO : No known dispatcher detected.
+[09/25/15 13:16:22 -0300 fringe.local (77687)] INFO : Application: DataCollector (Development)
+[09/25/15 13:16:22 -0300 fringe.local (77687)] INFO : Installing Net instrumentation
+[09/25/15 13:16:22 -0300 fringe.local (77687)] INFO : Installing Sinatra instrumentation
+[09/25/15 13:16:22 -0300 fringe.local (77687)] INFO : Installing deferred Rack instrumentation
+[09/25/15 13:16:22 -0300 fringe.local (77687)] INFO : Installing Rack::Builder middleware instrumentation
+[09/25/15 13:16:22 -0300 fringe.local (77687)] INFO : Installing Sidekiq instrumentation
+[09/25/15 13:16:22 -0300 fringe.local (77687)] INFO : Installing Typhoeus instrumentation
+[09/25/15 13:16:22 -0300 fringe.local (77687)] INFO : Finished instrumentation
+[09/25/15 13:16:24 -0300 fringe.local (77687)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/11214765
+[09/25/15 13:24:04 -0300 fringe.local (78056)] INFO : Starting the New Relic agent in "development" environment.
+[09/25/15 13:24:04 -0300 fringe.local (78056)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[09/25/15 13:24:04 -0300 fringe.local (78056)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/25/15 13:24:04 -0300 fringe.local (78056)] INFO : Environment: development
+[09/25/15 13:24:04 -0300 fringe.local (78056)] INFO : No known dispatcher detected.
+[09/25/15 13:24:04 -0300 fringe.local (78056)] INFO : Application: DataCollector (Development)
+[09/25/15 13:24:04 -0300 fringe.local (78056)] INFO : Installing Net instrumentation
+[09/25/15 13:24:04 -0300 fringe.local (78056)] INFO : Installing Sinatra instrumentation
+[09/25/15 13:24:04 -0300 fringe.local (78056)] INFO : Installing deferred Rack instrumentation
+[09/25/15 13:24:04 -0300 fringe.local (78056)] INFO : Installing Rack::Builder middleware instrumentation
+[09/25/15 13:24:04 -0300 fringe.local (78056)] INFO : Installing Sidekiq instrumentation
+[09/25/15 13:24:04 -0300 fringe.local (78056)] INFO : Installing Typhoeus instrumentation
+[09/25/15 13:24:04 -0300 fringe.local (78056)] INFO : Finished instrumentation
+[09/25/15 13:24:06 -0300 fringe.local (78056)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/11214765
+[09/25/15 13:29:55 -0300 fringe.local (78440)] INFO : Starting the New Relic agent in "development" environment.
+[09/25/15 13:29:55 -0300 fringe.local (78440)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[09/25/15 13:29:55 -0300 fringe.local (78440)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/25/15 13:29:55 -0300 fringe.local (78440)] INFO : Environment: development
+[09/25/15 13:29:55 -0300 fringe.local (78440)] INFO : No known dispatcher detected.
+[09/25/15 13:29:55 -0300 fringe.local (78440)] INFO : Application: DataCollector (Development)
+[09/25/15 13:29:55 -0300 fringe.local (78440)] INFO : Installing Net instrumentation
+[09/25/15 13:29:55 -0300 fringe.local (78440)] INFO : Installing Sinatra instrumentation
+[09/25/15 13:29:55 -0300 fringe.local (78440)] INFO : Installing deferred Rack instrumentation
+[09/25/15 13:29:55 -0300 fringe.local (78440)] INFO : Installing Rack::Builder middleware instrumentation
+[09/25/15 13:29:55 -0300 fringe.local (78440)] INFO : Installing Sidekiq instrumentation
+[09/25/15 13:29:55 -0300 fringe.local (78440)] INFO : Installing Typhoeus instrumentation
+[09/25/15 13:29:55 -0300 fringe.local (78440)] INFO : Finished instrumentation
+[09/25/15 13:29:57 -0300 fringe.local (78440)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/11214765
+[09/25/15 13:36:03 -0300 fringe.local (79072)] INFO : Starting the New Relic agent in "development" environment.
+[09/25/15 13:36:03 -0300 fringe.local (79072)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[09/25/15 13:36:03 -0300 fringe.local (79072)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/25/15 13:36:03 -0300 fringe.local (79072)] INFO : Environment: development
+[09/25/15 13:36:03 -0300 fringe.local (79072)] INFO : No known dispatcher detected.
+[09/25/15 13:36:03 -0300 fringe.local (79072)] INFO : Application: DataCollector (Development)
+[09/25/15 13:36:03 -0300 fringe.local (79072)] INFO : Installing Net instrumentation
+[09/25/15 13:36:03 -0300 fringe.local (79072)] INFO : Installing Sinatra instrumentation
+[09/25/15 13:36:03 -0300 fringe.local (79072)] INFO : Installing deferred Rack instrumentation
+[09/25/15 13:36:03 -0300 fringe.local (79072)] INFO : Installing Rack::Builder middleware instrumentation
+[09/25/15 13:36:03 -0300 fringe.local (79072)] INFO : Installing Sidekiq instrumentation
+[09/25/15 13:36:03 -0300 fringe.local (79072)] INFO : Installing Typhoeus instrumentation
+[09/25/15 13:36:03 -0300 fringe.local (79072)] INFO : Finished instrumentation
+[09/25/15 13:36:05 -0300 fringe.local (79072)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/11214765
+[09/25/15 13:37:25 -0300 fringe.local (79170)] INFO : Starting the New Relic agent in "development" environment.
+[09/25/15 13:37:25 -0300 fringe.local (79170)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[09/25/15 13:37:25 -0300 fringe.local (79170)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/25/15 13:37:25 -0300 fringe.local (79170)] INFO : Environment: development
+[09/25/15 13:37:25 -0300 fringe.local (79170)] INFO : No known dispatcher detected.
+[09/25/15 13:37:25 -0300 fringe.local (79170)] INFO : Application: DataCollector (Development)
+[09/25/15 13:37:25 -0300 fringe.local (79170)] INFO : Installing Net instrumentation
+[09/25/15 13:37:25 -0300 fringe.local (79170)] INFO : Installing Sinatra instrumentation
+[09/25/15 13:37:25 -0300 fringe.local (79170)] INFO : Installing deferred Rack instrumentation
+[09/25/15 13:37:25 -0300 fringe.local (79170)] INFO : Installing Rack::Builder middleware instrumentation
+[09/25/15 13:37:25 -0300 fringe.local (79170)] INFO : Installing Sidekiq instrumentation
+[09/25/15 13:37:25 -0300 fringe.local (79170)] INFO : Installing Typhoeus instrumentation
+[09/25/15 13:37:25 -0300 fringe.local (79170)] INFO : Finished instrumentation
+[09/25/15 13:37:27 -0300 fringe.local (79170)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/11214765
+[09/25/15 13:37:54 -0300 fringe.local (79243)] INFO : Starting the New Relic agent in "development" environment.
+[09/25/15 13:37:54 -0300 fringe.local (79243)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[09/25/15 13:37:54 -0300 fringe.local (79243)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/25/15 13:37:54 -0300 fringe.local (79243)] INFO : Environment: development
+[09/25/15 13:37:54 -0300 fringe.local (79243)] INFO : No known dispatcher detected.
+[09/25/15 13:37:54 -0300 fringe.local (79243)] INFO : Application: DataCollector (Development)
+[09/25/15 13:37:55 -0300 fringe.local (79243)] INFO : Installing Net instrumentation
+[09/25/15 13:37:55 -0300 fringe.local (79243)] INFO : Installing Sinatra instrumentation
+[09/25/15 13:37:55 -0300 fringe.local (79243)] INFO : Installing deferred Rack instrumentation
+[09/25/15 13:37:55 -0300 fringe.local (79243)] INFO : Installing Rack::Builder middleware instrumentation
+[09/25/15 13:37:55 -0300 fringe.local (79243)] INFO : Installing Sidekiq instrumentation
+[09/25/15 13:37:55 -0300 fringe.local (79243)] INFO : Installing Typhoeus instrumentation
+[09/25/15 13:37:55 -0300 fringe.local (79243)] INFO : Finished instrumentation
+[09/25/15 13:37:56 -0300 fringe.local (79243)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/11214765
+[09/25/15 13:52:01 -0300 fringe.local (79243)] ERROR : 1 error(s) running task for event 'report_data' in Agent Event Loop:
+[09/25/15 14:05:48 -0300 fringe.local (79243)] ERROR : Errno::ENETDOWN: Network is down - connect(2) for "collector-167.newrelic.com" port 443
+[09/25/15 14:08:23 -0300 fringe.local (79871)] INFO : Starting the New Relic agent in "development" environment.
+[09/25/15 14:08:23 -0300 fringe.local (79871)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[09/25/15 14:08:23 -0300 fringe.local (79871)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/25/15 14:08:23 -0300 fringe.local (79871)] INFO : Environment: development
+[09/25/15 14:08:23 -0300 fringe.local (79871)] INFO : No known dispatcher detected.
+[09/25/15 14:08:23 -0300 fringe.local (79871)] INFO : Application: DataCollector (Development)
+[09/25/15 14:08:24 -0300 fringe.local (79871)] INFO : Installing Net instrumentation
+[09/25/15 14:08:24 -0300 fringe.local (79871)] INFO : Installing Sinatra instrumentation
+[09/25/15 14:08:24 -0300 fringe.local (79871)] INFO : Installing deferred Rack instrumentation
+[09/25/15 14:08:24 -0300 fringe.local (79871)] INFO : Installing Rack::Builder middleware instrumentation
+[09/25/15 14:08:24 -0300 fringe.local (79871)] INFO : Installing Sidekiq instrumentation
+[09/25/15 14:08:24 -0300 fringe.local (79871)] INFO : Installing Typhoeus instrumentation
+[09/25/15 14:08:24 -0300 fringe.local (79871)] INFO : Finished instrumentation
+[09/25/15 14:08:25 -0300 fringe.local (79871)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/11214765
+[09/29/15 12:05:45 -0300 fringe.local (71854)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/29/15 12:05:45 -0300 fringe.local (71854)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/29/15 12:14:42 -0300 fringe.local (72673)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/29/15 12:14:42 -0300 fringe.local (72673)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/30/15 12:15:27 -0300 fringe.local (78518)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/30/15 12:15:27 -0300 fringe.local (78518)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/30/15 12:16:04 -0300 fringe.local (78702)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/30/15 12:16:04 -0300 fringe.local (78702)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/30/15 12:20:21 -0300 fringe.local (79900)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/30/15 12:20:21 -0300 fringe.local (79900)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/30/15 12:20:55 -0300 fringe.local (80025)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/30/15 12:20:55 -0300 fringe.local (80025)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/30/15 12:22:32 -0300 fringe.local (80374)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/30/15 12:22:32 -0300 fringe.local (80374)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[09/30/15 12:23:07 -0300 fringe.local (80485)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[09/30/15 12:23:07 -0300 fringe.local (80485)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[10/12/15 17:33:36 +0000 ce86e42e7487 (1)] INFO : Starting the New Relic agent in "development" environment.
+[10/12/15 17:33:36 +0000 ce86e42e7487 (1)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[10/12/15 17:33:36 +0000 ce86e42e7487 (1)] INFO : Reading configuration from config/newrelic.yml (/usr/src/app)
+[10/12/15 17:33:36 +0000 ce86e42e7487 (1)] INFO : Environment: development
+[10/12/15 17:33:36 +0000 ce86e42e7487 (1)] INFO : No known dispatcher detected.
+[10/12/15 17:33:36 +0000 ce86e42e7487 (1)] INFO : Application: DataCollector (Development)
+[10/12/15 17:33:36 +0000 ce86e42e7487 (1)] INFO : Installing Sinatra instrumentation
+[10/12/15 17:33:36 +0000 ce86e42e7487 (1)] INFO : Installing Typhoeus instrumentation
+[10/12/15 17:33:36 +0000 ce86e42e7487 (1)] INFO : Installing Sidekiq instrumentation
+[10/12/15 17:33:36 +0000 ce86e42e7487 (1)] INFO : Installing deferred Rack instrumentation
+[10/12/15 17:33:36 +0000 ce86e42e7487 (1)] INFO : Installing Rack::Builder middleware instrumentation
+[10/12/15 17:33:36 +0000 ce86e42e7487 (1)] INFO : Installing Net instrumentation
+[10/12/15 17:33:36 +0000 ce86e42e7487 (1)] INFO : Finished instrumentation
+[10/12/15 17:33:53 +0000 17cdead8d04e (1)] INFO : Starting the New Relic agent in "development" environment.
+[10/12/15 17:33:53 +0000 17cdead8d04e (1)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[10/12/15 17:33:53 +0000 17cdead8d04e (1)] INFO : Reading configuration from config/newrelic.yml (/usr/src/app)
+[10/12/15 17:33:53 +0000 17cdead8d04e (1)] INFO : Environment: development
+[10/12/15 17:33:53 +0000 17cdead8d04e (1)] INFO : No known dispatcher detected.
+[10/12/15 17:33:53 +0000 17cdead8d04e (1)] INFO : Application: DataCollector (Development)
+[10/12/15 17:33:53 +0000 17cdead8d04e (1)] INFO : Installing Sinatra instrumentation
+[10/12/15 17:33:53 +0000 17cdead8d04e (1)] INFO : Installing Typhoeus instrumentation
+[10/12/15 17:33:53 +0000 17cdead8d04e (1)] INFO : Installing Sidekiq instrumentation
+[10/12/15 17:33:53 +0000 17cdead8d04e (1)] INFO : Installing deferred Rack instrumentation
+[10/12/15 17:33:53 +0000 17cdead8d04e (1)] INFO : Installing Rack::Builder middleware instrumentation
+[10/12/15 17:33:53 +0000 17cdead8d04e (1)] INFO : Installing Net instrumentation
+[10/12/15 17:33:53 +0000 17cdead8d04e (1)] INFO : Finished instrumentation
+[10/12/15 14:37:36 -0300 fringe.local (10143)] INFO : Starting the New Relic agent in "development" environment.
+[10/12/15 14:37:36 -0300 fringe.local (10143)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[10/12/15 14:37:36 -0300 fringe.local (10143)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[10/12/15 14:37:36 -0300 fringe.local (10143)] INFO : Environment: development
+[10/12/15 14:37:36 -0300 fringe.local (10143)] INFO : No known dispatcher detected.
+[10/12/15 14:37:36 -0300 fringe.local (10143)] INFO : Application: DataCollector (Development)
+[10/12/15 14:37:36 -0300 fringe.local (10143)] INFO : Installing Net instrumentation
+[10/12/15 14:37:36 -0300 fringe.local (10143)] INFO : Installing Sinatra instrumentation
+[10/12/15 14:37:36 -0300 fringe.local (10143)] INFO : Installing deferred Rack instrumentation
+[10/12/15 14:37:36 -0300 fringe.local (10143)] INFO : Installing Rack::Builder middleware instrumentation
+[10/12/15 14:37:36 -0300 fringe.local (10143)] INFO : Installing Sidekiq instrumentation
+[10/12/15 14:37:36 -0300 fringe.local (10143)] INFO : Installing Typhoeus instrumentation
+[10/12/15 14:37:36 -0300 fringe.local (10143)] INFO : Finished instrumentation
+[10/12/15 14:37:38 -0300 fringe.local (10143)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/11214765
+[10/12/15 14:40:09 -0300 fringe.local (10453)] INFO : Starting the New Relic agent in "development" environment.
+[10/12/15 14:40:09 -0300 fringe.local (10453)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[10/12/15 14:40:09 -0300 fringe.local (10453)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[10/12/15 14:40:09 -0300 fringe.local (10453)] INFO : Environment: development
+[10/12/15 14:40:09 -0300 fringe.local (10453)] INFO : No known dispatcher detected.
+[10/12/15 14:40:09 -0300 fringe.local (10453)] INFO : Application: DataCollector (Development)
+[10/12/15 14:40:09 -0300 fringe.local (10453)] INFO : Installing Net instrumentation
+[10/12/15 14:40:09 -0300 fringe.local (10453)] INFO : Installing Sinatra instrumentation
+[10/12/15 14:40:09 -0300 fringe.local (10453)] INFO : Installing deferred Rack instrumentation
+[10/12/15 14:40:09 -0300 fringe.local (10453)] INFO : Installing Rack::Builder middleware instrumentation
+[10/12/15 14:40:09 -0300 fringe.local (10453)] INFO : Installing Sidekiq instrumentation
+[10/12/15 14:40:09 -0300 fringe.local (10453)] INFO : Installing Typhoeus instrumentation
+[10/12/15 14:40:09 -0300 fringe.local (10453)] INFO : Finished instrumentation
+[10/12/15 14:40:55 -0300 fringe.local (10598)] INFO : Starting the New Relic agent in "development" environment.
+[10/12/15 14:40:55 -0300 fringe.local (10598)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[10/12/15 14:40:55 -0300 fringe.local (10598)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[10/12/15 14:40:55 -0300 fringe.local (10598)] INFO : Environment: development
+[10/12/15 14:40:55 -0300 fringe.local (10598)] INFO : No known dispatcher detected.
+[10/12/15 14:40:55 -0300 fringe.local (10598)] INFO : Application: DataCollector (Development)
+[10/12/15 14:40:55 -0300 fringe.local (10598)] INFO : Installing Net instrumentation
+[10/12/15 14:40:55 -0300 fringe.local (10598)] INFO : Installing Sinatra instrumentation
+[10/12/15 14:40:55 -0300 fringe.local (10598)] INFO : Installing deferred Rack instrumentation
+[10/12/15 14:40:55 -0300 fringe.local (10598)] INFO : Installing Rack::Builder middleware instrumentation
+[10/12/15 14:40:55 -0300 fringe.local (10598)] INFO : Installing Sidekiq instrumentation
+[10/12/15 14:40:55 -0300 fringe.local (10598)] INFO : Installing Typhoeus instrumentation
+[10/12/15 14:40:55 -0300 fringe.local (10598)] INFO : Finished instrumentation
+[10/12/15 14:40:56 -0300 fringe.local (10598)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/11214765
+[10/12/15 17:42:58 +0000 8db0570c7152 (1)] INFO : Starting the New Relic agent in "development" environment.
+[10/12/15 17:42:58 +0000 8db0570c7152 (1)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[10/12/15 17:42:58 +0000 8db0570c7152 (1)] INFO : Reading configuration from config/newrelic.yml (/usr/src/app)
+[10/12/15 17:42:58 +0000 8db0570c7152 (1)] INFO : Environment: development
+[10/12/15 17:42:58 +0000 8db0570c7152 (1)] INFO : No known dispatcher detected.
+[10/12/15 17:42:58 +0000 8db0570c7152 (1)] INFO : Application: DataCollector (Development)
+[10/12/15 17:42:58 +0000 8db0570c7152 (1)] INFO : Installing Sinatra instrumentation
+[10/12/15 17:42:58 +0000 8db0570c7152 (1)] INFO : Installing Typhoeus instrumentation
+[10/12/15 17:42:58 +0000 8db0570c7152 (1)] INFO : Installing Sidekiq instrumentation
+[10/12/15 17:42:58 +0000 8db0570c7152 (1)] INFO : Installing deferred Rack instrumentation
+[10/12/15 17:42:58 +0000 8db0570c7152 (1)] INFO : Installing Rack::Builder middleware instrumentation
+[10/12/15 17:42:58 +0000 8db0570c7152 (1)] INFO : Installing Net instrumentation
+[10/12/15 17:42:58 +0000 8db0570c7152 (1)] INFO : Finished instrumentation
+[10/12/15 17:43:00 +0000 8db0570c7152 (1)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/11214765
+[10/12/15 17:43:17 +0000 1bafdbfa4489 (1)] INFO : Starting the New Relic agent in "development" environment.
+[10/12/15 17:43:17 +0000 1bafdbfa4489 (1)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[10/12/15 17:43:17 +0000 1bafdbfa4489 (1)] INFO : Reading configuration from config/newrelic.yml (/usr/src/app)
+[10/12/15 17:43:17 +0000 1bafdbfa4489 (1)] INFO : Environment: development
+[10/12/15 17:43:17 +0000 1bafdbfa4489 (1)] INFO : No known dispatcher detected.
+[10/12/15 17:43:17 +0000 1bafdbfa4489 (1)] INFO : Application: DataCollector (Development)
+[10/12/15 17:43:17 +0000 1bafdbfa4489 (1)] INFO : Installing Sinatra instrumentation
+[10/12/15 17:43:17 +0000 1bafdbfa4489 (1)] INFO : Installing Typhoeus instrumentation
+[10/12/15 17:43:17 +0000 1bafdbfa4489 (1)] INFO : Installing Sidekiq instrumentation
+[10/12/15 17:43:17 +0000 1bafdbfa4489 (1)] INFO : Installing deferred Rack instrumentation
+[10/12/15 17:43:17 +0000 1bafdbfa4489 (1)] INFO : Installing Rack::Builder middleware instrumentation
+[10/12/15 17:43:17 +0000 1bafdbfa4489 (1)] INFO : Installing Net instrumentation
+[10/12/15 17:43:17 +0000 1bafdbfa4489 (1)] INFO : Finished instrumentation
+[10/12/15 17:43:19 +0000 1bafdbfa4489 (1)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/11214765
+[10/12/15 17:44:29 +0000 f8653d2db978 (1)] INFO : Starting the New Relic agent in "development" environment.
+[10/12/15 17:44:29 +0000 f8653d2db978 (1)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[10/12/15 17:44:29 +0000 f8653d2db978 (1)] INFO : Reading configuration from config/newrelic.yml (/usr/src/app)
+[10/12/15 17:44:29 +0000 f8653d2db978 (1)] INFO : Environment: development
+[10/12/15 17:44:29 +0000 f8653d2db978 (1)] INFO : No known dispatcher detected.
+[10/12/15 17:44:29 +0000 f8653d2db978 (1)] INFO : Application: DataCollector (Development)
+[10/12/15 17:44:30 +0000 f8653d2db978 (1)] INFO : Installing Sinatra instrumentation
+[10/12/15 17:44:30 +0000 f8653d2db978 (1)] INFO : Installing Typhoeus instrumentation
+[10/12/15 17:44:30 +0000 f8653d2db978 (1)] INFO : Installing Sidekiq instrumentation
+[10/12/15 17:44:30 +0000 f8653d2db978 (1)] INFO : Installing deferred Rack instrumentation
+[10/12/15 17:44:30 +0000 f8653d2db978 (1)] INFO : Installing Rack::Builder middleware instrumentation
+[10/12/15 17:44:30 +0000 f8653d2db978 (1)] INFO : Installing Net instrumentation
+[10/12/15 17:44:30 +0000 f8653d2db978 (1)] INFO : Finished instrumentation
+[10/12/15 17:44:32 +0000 f8653d2db978 (1)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/11214765
+[10/12/15 17:49:06 +0000 8bfa84716e93 (1)] INFO : Starting the New Relic agent in "development" environment.
+[10/12/15 17:49:06 +0000 8bfa84716e93 (1)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[10/12/15 17:49:06 +0000 8bfa84716e93 (1)] INFO : Reading configuration from config/newrelic.yml (/usr/src/app)
+[10/12/15 17:49:06 +0000 8bfa84716e93 (1)] INFO : Environment: development
+[10/12/15 17:49:06 +0000 8bfa84716e93 (1)] INFO : No known dispatcher detected.
+[10/12/15 17:49:06 +0000 8bfa84716e93 (1)] INFO : Application: DataCollector (Development)
+[10/12/15 17:49:06 +0000 8bfa84716e93 (1)] INFO : Installing Sinatra instrumentation
+[10/12/15 17:49:06 +0000 8bfa84716e93 (1)] INFO : Installing Typhoeus instrumentation
+[10/12/15 17:49:06 +0000 8bfa84716e93 (1)] INFO : Installing Sidekiq instrumentation
+[10/12/15 17:49:06 +0000 8bfa84716e93 (1)] INFO : Installing deferred Rack instrumentation
+[10/12/15 17:49:06 +0000 8bfa84716e93 (1)] INFO : Installing Rack::Builder middleware instrumentation
+[10/12/15 17:49:06 +0000 8bfa84716e93 (1)] INFO : Installing Net instrumentation
+[10/12/15 17:49:06 +0000 8bfa84716e93 (1)] INFO : Finished instrumentation
+[10/22/15 09:16:51 -0300 fringe.local (45704)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[10/22/15 09:16:51 -0300 fringe.local (45704)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[11/14/15 15:25:00 +0000 3c4ef9e899ca (1)] INFO : Starting the New Relic agent in "development" environment.
+[11/14/15 15:25:00 +0000 3c4ef9e899ca (1)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[11/14/15 15:25:00 +0000 3c4ef9e899ca (1)] INFO : Reading configuration from config/newrelic.yml (/usr/src/app)
+[11/14/15 15:25:00 +0000 3c4ef9e899ca (1)] INFO : Environment: development
+[11/14/15 15:25:00 +0000 3c4ef9e899ca (1)] INFO : No known dispatcher detected.
+[11/14/15 15:25:00 +0000 3c4ef9e899ca (1)] INFO : Application: DataCollector (Development)
+[11/14/15 15:25:00 +0000 3c4ef9e899ca (1)] INFO : Installing Sinatra instrumentation
+[11/14/15 15:25:00 +0000 3c4ef9e899ca (1)] INFO : Installing Typhoeus instrumentation
+[11/14/15 15:25:00 +0000 3c4ef9e899ca (1)] INFO : Installing Sidekiq instrumentation
+[11/14/15 15:25:00 +0000 3c4ef9e899ca (1)] INFO : Installing deferred Rack instrumentation
+[11/14/15 15:25:00 +0000 3c4ef9e899ca (1)] INFO : Installing Rack::Builder middleware instrumentation
+[11/14/15 15:25:00 +0000 3c4ef9e899ca (1)] INFO : Installing Net instrumentation
+[11/14/15 15:25:00 +0000 3c4ef9e899ca (1)] INFO : Finished instrumentation
+[11/14/15 15:25:02 +0000 3c4ef9e899ca (1)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/12457591
+[12/01/15 20:30:38 -0300 fringe.local (21665)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/01/15 20:30:38 -0300 fringe.local (21665)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/02/15 09:38:07 -0300 fringe.local (26951)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/02/15 09:38:07 -0300 fringe.local (26951)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/02/15 09:38:33 -0300 fringe.local (28451)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/02/15 09:38:33 -0300 fringe.local (28451)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/02/15 18:19:57 -0300 fringe.local (71187)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/02/15 18:19:57 -0300 fringe.local (71187)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/04/15 13:19:16 -0300 fringe.local (12215)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/04/15 13:19:16 -0300 fringe.local (12215)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/10/15 16:08:59 -0300 fringe.local (70869)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/10/15 16:08:59 -0300 fringe.local (70869)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/10/15 16:09:48 -0300 fringe.local (71346)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/10/15 16:09:48 -0300 fringe.local (71346)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/10/15 18:21:50 -0300 fringe.local (84168)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/10/15 18:21:50 -0300 fringe.local (84168)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/11/15 16:42:58 +0000 8ef6c878a46d (1)] INFO : Starting the New Relic agent in "development" environment.
+[12/11/15 16:42:58 +0000 8ef6c878a46d (1)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[12/11/15 16:42:58 +0000 8ef6c878a46d (1)] INFO : Reading configuration from config/newrelic.yml (/usr/src/app)
+[12/11/15 16:42:58 +0000 8ef6c878a46d (1)] INFO : Environment: development
+[12/11/15 16:42:58 +0000 8ef6c878a46d (1)] INFO : No known dispatcher detected.
+[12/11/15 16:42:58 +0000 8ef6c878a46d (1)] INFO : Application: DataCollector (Development)
+[12/11/15 16:42:58 +0000 8ef6c878a46d (1)] INFO : Installing Sinatra instrumentation
+[12/11/15 16:42:58 +0000 8ef6c878a46d (1)] INFO : Installing Typhoeus instrumentation
+[12/11/15 16:42:58 +0000 8ef6c878a46d (1)] INFO : Installing Sidekiq instrumentation
+[12/11/15 16:42:58 +0000 8ef6c878a46d (1)] INFO : Installing deferred Rack instrumentation
+[12/11/15 16:42:58 +0000 8ef6c878a46d (1)] INFO : Installing Rack::Builder middleware instrumentation
+[12/11/15 16:42:58 +0000 8ef6c878a46d (1)] INFO : Installing Net instrumentation
+[12/11/15 16:42:58 +0000 8ef6c878a46d (1)] INFO : Finished instrumentation
+[12/11/15 16:43:00 +0000 8ef6c878a46d (1)] INFO : Reporting to: https://rpm.newrelic.com/accounts/869875/applications/12457591
+[12/14/15 16:52:31 -0300 fringe.local (95634)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/14/15 16:52:31 -0300 fringe.local (95634)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/15/15 12:49:30 -0300 fringe.local (55771)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/15/15 12:49:30 -0300 fringe.local (55771)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/16/15 11:58:35 -0300 fringe.local (89640)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/16/15 11:58:35 -0300 fringe.local (89640)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/16/15 12:09:55 -0300 fringe.local (94107)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/16/15 12:09:55 -0300 fringe.local (94107)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/16/15 12:10:43 -0300 fringe.local (94519)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/16/15 12:10:43 -0300 fringe.local (94519)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/16/15 12:12:04 -0300 fringe.local (95084)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/16/15 12:12:04 -0300 fringe.local (95084)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/16/15 12:15:49 -0300 fringe.local (96615)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/16/15 12:15:49 -0300 fringe.local (96615)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/16/15 12:28:27 -0300 fringe.local (1870)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/16/15 12:28:27 -0300 fringe.local (1870)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/21/15 09:38:34 -0300 fringe.local (84222)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/21/15 09:38:34 -0300 fringe.local (84222)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/21/15 12:44:23 -0300 fringe.local (9872)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/21/15 12:44:23 -0300 fringe.local (9872)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/21/15 12:45:01 -0300 fringe.local (10325)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/21/15 12:45:01 -0300 fringe.local (10325)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/23/15 18:32:59 -0300 fringe.local (29759)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/23/15 18:32:59 -0300 fringe.local (29759)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/29/15 16:44:26 -0300 fringe.local (4493)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/29/15 16:44:26 -0300 fringe.local (4493)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/29/15 17:13:27 -0300 fringe.local (21957)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/29/15 17:13:27 -0300 fringe.local (21957)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/30/15 16:18:18 -0300 fringe.local (84752)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/30/15 16:18:18 -0300 fringe.local (84752)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/30/15 16:24:45 -0300 fringe.local (89334)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/30/15 16:24:45 -0300 fringe.local (89334)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/30/15 16:56:34 -0300 fringe.local (7205)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/30/15 16:56:34 -0300 fringe.local (7205)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[12/30/15 17:00:32 -0300 fringe.local (10150)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[12/30/15 17:00:32 -0300 fringe.local (10150)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/03/16 22:10:54 -0300 fringe.local (89872)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/03/16 22:10:54 -0300 fringe.local (89872)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/04/16 17:23:33 -0300 fringe.local (71143)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/04/16 17:23:33 -0300 fringe.local (71143)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/04/16 17:26:03 -0300 fringe.local (72576)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/04/16 17:26:03 -0300 fringe.local (72576)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/04/16 17:31:05 -0300 fringe.local (75311)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/04/16 17:31:05 -0300 fringe.local (75311)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/05/16 10:09:17 -0300 fringe.local (10574)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/05/16 10:09:17 -0300 fringe.local (10574)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/05/16 17:29:47 -0300 fringe.local (51458)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/05/16 17:29:47 -0300 fringe.local (51458)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/05/16 17:30:20 -0300 fringe.local (51553)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/05/16 17:30:20 -0300 fringe.local (51553)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/06/16 09:52:30 -0300 fringe.local (14202)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/06/16 09:52:30 -0300 fringe.local (14202)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/06/16 09:52:59 -0300 fringe.local (14286)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/06/16 09:52:59 -0300 fringe.local (14286)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/07/16 11:04:27 -0300 fringe.local (69471)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/07/16 11:04:27 -0300 fringe.local (69471)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/07/16 11:43:38 -0300 fringe.local (71794)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/07/16 11:43:38 -0300 fringe.local (71794)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/08/16 17:07:16 -0300 fringe.local (68876)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/08/16 17:07:16 -0300 fringe.local (68876)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/11/16 11:14:38 -0300 fringe.local (53088)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/11/16 11:14:38 -0300 fringe.local (53088)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/11/16 12:26:20 -0300 fringe.local (58207)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/11/16 12:26:20 -0300 fringe.local (58207)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/11/16 12:26:57 -0300 fringe.local (58323)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/11/16 12:26:57 -0300 fringe.local (58323)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/11/16 13:07:32 -0300 fringe.local (61938)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/11/16 13:07:32 -0300 fringe.local (61938)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/25/16 10:59:41 -0300 fringe.local (20422)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/25/16 10:59:41 -0300 fringe.local (20422)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/25/16 11:00:10 -0300 fringe.local (20787)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/25/16 11:00:10 -0300 fringe.local (20787)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/25/16 11:00:56 -0300 fringe.local (20928)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/25/16 11:00:56 -0300 fringe.local (20928)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/25/16 11:01:43 -0300 fringe.local (21077)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/25/16 11:01:43 -0300 fringe.local (21077)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/26/16 15:49:41 -0300 fringe.local (24415)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/26/16 15:49:41 -0300 fringe.local (24415)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/26/16 15:50:56 -0300 fringe.local (24568)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/26/16 15:50:56 -0300 fringe.local (24568)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/26/16 16:09:06 -0300 fringe.local (26075)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/26/16 16:09:06 -0300 fringe.local (26075)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/27/16 18:26:16 -0300 fringe.local (87264)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/27/16 18:26:16 -0300 fringe.local (87264)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[01/27/16 18:26:53 -0300 fringe.local (87396)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[01/27/16 18:26:53 -0300 fringe.local (87396)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[02/01/16 10:20:04 -0300 fringe.local (8639)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[02/01/16 10:20:04 -0300 fringe.local (8639)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[02/01/16 10:55:51 -0300 fringe.local (11465)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[02/01/16 10:55:51 -0300 fringe.local (11465)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[02/01/16 10:56:21 -0300 fringe.local (11557)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[02/01/16 10:56:21 -0300 fringe.local (11557)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[02/01/16 11:21:16 -0300 fringe.local (13277)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[02/01/16 11:21:16 -0300 fringe.local (13277)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[02/05/16 15:18:00 -0300 fringe.local (72744)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[02/05/16 15:18:00 -0300 fringe.local (72744)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[02/05/16 15:18:30 -0300 fringe.local (72932)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[02/05/16 15:18:30 -0300 fringe.local (72932)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[02/15/16 14:54:03 -0300 fringe.local (29839)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[02/15/16 14:54:03 -0300 fringe.local (29839)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[02/16/16 09:13:06 -0300 fringe.local (46149)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[02/16/16 09:13:06 -0300 fringe.local (46149)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[02/16/16 09:14:00 -0300 fringe.local (46293)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[02/16/16 09:14:00 -0300 fringe.local (46293)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[02/26/16 14:49:44 -0300 fringe.local (85504)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[02/26/16 14:49:44 -0300 fringe.local (85504)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[02/26/16 14:51:08 -0300 fringe.local (86846)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[02/26/16 14:51:08 -0300 fringe.local (86846)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/09/16 09:51:08 -0300 fringe.local (99251)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/09/16 09:51:08 -0300 fringe.local (99251)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/17/16 15:23:07 -0300 fringe.local (84550)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/17/16 15:23:07 -0300 fringe.local (84550)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/17/16 15:24:03 -0300 fringe.local (84672)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/17/16 15:24:03 -0300 fringe.local (84672)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/17/16 16:41:40 -0300 fringe.local (91094)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/17/16 16:41:40 -0300 fringe.local (91094)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/18/16 09:31:01 -0300 fringe.local (15759)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/18/16 09:31:01 -0300 fringe.local (15759)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/23/16 10:03:50 -0300 fringe.local (59406)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/23/16 10:03:50 -0300 fringe.local (59406)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/23/16 10:04:19 -0300 fringe.local (59510)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/23/16 10:04:19 -0300 fringe.local (59510)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/23/16 10:15:56 -0300 fringe.local (60517)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/23/16 10:15:56 -0300 fringe.local (60517)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/23/16 11:24:02 -0300 fringe.local (65607)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/23/16 11:24:02 -0300 fringe.local (65607)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/23/16 11:53:27 -0300 fringe.local (67050)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/23/16 11:53:27 -0300 fringe.local (67050)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/23/16 14:33:27 -0300 fringe.local (78012)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/23/16 14:33:27 -0300 fringe.local (78012)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/23/16 17:03:12 -0300 fringe.local (90571)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/23/16 17:03:12 -0300 fringe.local (90571)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/24/16 15:55:31 -0300 fringe.local (34337)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/24/16 15:55:31 -0300 fringe.local (34337)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/29/16 16:59:09 -0300 fringe.local (59768)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/29/16 16:59:09 -0300 fringe.local (59768)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/30/16 09:55:43 -0300 fringe.local (69595)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/30/16 09:55:43 -0300 fringe.local (69595)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/30/16 11:42:36 -0300 fringe.local (75978)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/30/16 11:42:36 -0300 fringe.local (75978)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/30/16 15:44:05 -0300 fringe.local (97824)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/30/16 15:44:05 -0300 fringe.local (97824)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/30/16 16:01:00 -0300 fringe.local (1058)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/30/16 16:01:00 -0300 fringe.local (1058)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/30/16 16:52:51 -0300 fringe.local (9497)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/30/16 16:52:51 -0300 fringe.local (9497)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[03/31/16 12:19:51 -0300 fringe.local (32720)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[03/31/16 12:19:51 -0300 fringe.local (32720)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/01/16 14:26:35 -0300 fringe.local (29590)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/01/16 14:26:35 -0300 fringe.local (29590)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/01/16 14:37:24 -0300 fringe.local (30798)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/01/16 14:37:24 -0300 fringe.local (30798)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/01/16 17:43:50 -0300 fringe.local (43406)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/01/16 17:43:50 -0300 fringe.local (43406)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/01/16 17:44:23 -0300 fringe.local (43496)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/01/16 17:44:23 -0300 fringe.local (43496)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/04/16 16:04:07 -0300 fringe.local (65792)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/04/16 16:04:07 -0300 fringe.local (65792)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/07/16 17:11:38 -0300 fringe.local (58815)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/07/16 17:11:38 -0300 fringe.local (58815)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/08/16 15:27:13 -0300 fringe.local (25057)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/08/16 15:27:13 -0300 fringe.local (25057)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/08/16 15:27:44 -0300 fringe.local (25129)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/08/16 15:27:44 -0300 fringe.local (25129)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/08/16 15:29:08 -0300 fringe.local (25245)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/08/16 15:29:08 -0300 fringe.local (25245)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/15/16 15:42:38 -0300 fringe.local (73736)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/15/16 15:42:38 -0300 fringe.local (73736)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/15/16 15:44:13 -0300 fringe.local (73863)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/15/16 15:44:13 -0300 fringe.local (73863)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/15/16 15:56:23 -0300 fringe.local (75317)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/15/16 15:56:23 -0300 fringe.local (75317)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/15/16 16:24:05 -0300 fringe.local (76869)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/15/16 16:24:05 -0300 fringe.local (76869)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/20/16 16:06:08 -0300 fringe.local (49638)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/20/16 16:06:08 -0300 fringe.local (49638)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/20/16 16:06:54 -0300 fringe.local (49725)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/20/16 16:06:54 -0300 fringe.local (49725)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/21/16 14:57:23 -0300 fringe.local (81414)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/21/16 14:57:23 -0300 fringe.local (81414)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/29/16 10:26:35 -0300 fringe.local (16311)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/29/16 10:26:35 -0300 fringe.local (16311)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/29/16 10:27:27 -0300 fringe.local (16450)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/29/16 10:27:27 -0300 fringe.local (16450)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/29/16 10:28:00 -0300 fringe.local (16575)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/29/16 10:28:00 -0300 fringe.local (16575)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/29/16 10:31:24 -0300 fringe.local (17006)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/29/16 10:31:24 -0300 fringe.local (17006)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
+[04/29/16 10:32:30 -0300 fringe.local (17180)] INFO : Reading configuration from config/newrelic.yml (/Users/MrD/Inzpiral/frogmi/data_collector)
+[04/29/16 10:32:30 -0300 fringe.local (17180)] INFO : Running Capistrano from 'production' environment for application 'DataCollector (Production)'
